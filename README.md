@@ -20,7 +20,7 @@ The Amazon Product Availability Checker is a Python script that checks the avail
 
 1. **Clone the repository** (if applicable):
    ```bash
-   git clone https://github.com/yourusername/amazon-product-availability-checker.git
+   git clone https://github.com/KIONA05/Amazon-Product-Availability-Checker.git
    cd amazon-product-availability-checker
    ```
 
@@ -45,7 +45,7 @@ The Amazon Product Availability Checker is a Python script that checks the avail
 To check the availability of a product, set the `product_url` variable as follows:
 
 ```python
-product_url = "https://www.amazon.com/dp/B08N5WRWNW"
+product_url = "https://amzn.in/d/fK24WeJ"
 ```
 
 When you run the script, it will output whether the product is available or out of stock.
