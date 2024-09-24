@@ -35,5 +35,5 @@ def check_amazon_availability(product_url):
 
 
 if __name__ == "__main__":
-    product_url = "AMAZON URL"
+    product_url = " "
     check_amazon_availability(product_url)
